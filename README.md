@@ -15,7 +15,6 @@ check the docs folder for the postman collections of API's
 npm install
 
 # Copy this .env file content
-# DB CREDS
 DB_USERNAME=root 
 DB_PASSWORD=root
 DB_NAME=bookstore_db
